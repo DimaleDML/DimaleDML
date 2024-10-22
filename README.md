@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Diego
 - 👀 I’m interested in Pepe
-- 🌱 I’m currently learning Pepe
-- 💞️ I’m looking to collaborate on Pepe
-- 📫 How to reach me Pepe
-- 😄 Pronouns: Pepe
+- 🌱 I’m currently learning Java & React Native
+<!-- 💞️ I’m looking to collaborate on Pepe-->
+<!-- 📫 How to reach me Pepe-->
+<!-- 😄 Pronouns: Pepe-->
 - ⚡ Fun fact: Pepe
 
 <!---
